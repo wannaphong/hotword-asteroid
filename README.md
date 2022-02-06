@@ -1,6 +1,8 @@
 # hotword-asteroid
 Hotword detection to asteroid os
 
+I use [EfficientWord-Net](https://github.com/Ant-Brain/EfficientWord-Net) to detect hotword.
+
 ## setup
 
 from https://asteroidos.org/wiki/building-asteroidos/, I needs to build software with docker.
