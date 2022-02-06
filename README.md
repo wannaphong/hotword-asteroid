@@ -3,6 +3,8 @@ Hotword detection to asteroid os
 
 I use [EfficientWord-Net](https://github.com/Ant-Brain/EfficientWord-Net) to detect hotword.
 
+Demo: https://www.youtube.com/watch?v=MqTqS41KC6k
+
 ## setup
 
 from https://asteroidos.org/wiki/building-asteroidos/, I needs to build software with docker.
@@ -42,6 +44,9 @@ pip3 install https://files.pythonhosted.org/packages/db/31/6d9e8790e188fd4c8647e
 ```
 
 ## Test
+
+
+Demo: https://www.youtube.com/watch?v=MqTqS41KC6k
 
 upload test.py
 
