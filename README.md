@@ -57,3 +57,5 @@ run with ```ceres``` user
 ```sh
 python3 test.py
 ```
+
+My hotwork is mobile. You can config and train own hotwork. Read more https://github.com/Ant-Brain/EfficientWord-Net
