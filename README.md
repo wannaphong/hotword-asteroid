@@ -13,7 +13,6 @@ from https://asteroidos.org/wiki/building-asteroidos/, I needs to build software
 sudo docker run --rm -it -v /etc/passwd:/etc/passwd:ro -u "$(id -u):$(id -g)"   -v "$HOME/.gitconfig:/$HOME/.gitconfig:ro" -v "$(pwd):/asteroid" asteroidos-toolchain   bash -c "source ./prepare-build.sh dervice && bitbake --software--"
 ```
 **List --software--**
-- python3-pkg-resources
 - python3-setuptools
 - python3-pip
 - python3-numpy
